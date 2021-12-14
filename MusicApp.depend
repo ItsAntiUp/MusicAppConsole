@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1611675449 source:c:\users\itwork\desktop\nd\musicapp\main.c
+	"all.h"
+	"sortfilter.h"
+	"scan.h"
+	"helper.h"
+	"saveload.h"
+	"message.h"
+
+1611678517 c:\users\itwork\desktop\nd\musicapp\all.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<errno.h>
+	<assert.h>
+	<dirent.h>
+
+1611582904 source:c:\users\itwork\desktop\nd\musicapp\saveload.c
+	"all.h"
+	"helper.h"
+	"scan.h"
+	"message.h"
+	"helper.h"
+
+1607347491 source:c:\users\itwork\desktop\nd\musicapp\sort.c
+	"all.h"
+
+1607346871 source:c:\users\itwork\desktop\nd\musicapp\validate.c
+	"all.h"
+
+1607349769 source:c:\users\itwork\desktop\nd\musicapp\filter.c
+	"all.h"
+
+1611583438 source:c:\users\itwork\desktop\nd\musicapp\helper.c
+	"all.h"
+	"message.h"
+	"scan.h"
+	"sys/stat.h"
+	<math.h>
+
+1611049446 c:\users\itwork\desktop\nd\musicapp\scan.h
+
+1611680157 source:c:\users\itwork\desktop\nd\musicapp\sortfilter.c
+	"all.h"
+	"helper.h"
+	"scan.h"
+	"message.h"
+
+1611055571 source:c:\users\itwork\desktop\nd\musicapp\scan.c
+	"all.h"
+	"helper.h"
+	"message.h"
+
+1611558515 c:\users\itwork\desktop\nd\musicapp\helper.h
+
+1611680161 c:\users\itwork\desktop\nd\musicapp\sortfilter.h
+
+1611558563 c:\users\itwork\desktop\nd\musicapp\saveload.h
+
+1611585861 c:\users\itwork\desktop\nd\musicapp\message.h
+
+1609849851 source:c:\users\itwork\desktop\nd\musicapp\message.c
+	"all.h"
+
